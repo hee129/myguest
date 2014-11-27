@@ -1,0 +1,17 @@
+{
+  "name": "myguest",
+  "version": "0.0.1",
+  "description": "kkk",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ll",
+  "license": "ll",
+  "dependencies": {
+    "body-parser": "^1.9.3",
+    "express": "^4.10.4",
+    "mongoose": "^3.8.19",
+    "morgan": "^1.5.0"
+  }
+}
